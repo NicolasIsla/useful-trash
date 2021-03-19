@@ -17,8 +17,9 @@ with plt.style.context("bmh"):
 	#rojo: #e6aab5
 	#celeste: #a8e6e3
 	#amarillo: #e8e2a9
-	ax.fill_between(variable[0:4],funcion[0:4],color="#999de0")
-	ax.plot(variable, funcion, 'o--b', label=" ")
+	ax.fill_between(variable[0:6],funcion[0:6],color="#999de0")
+	ax.plot(variable, funcion, 'o--b', label="holi ")
 	
-	ax.legend(loc="lower left")
+	ax.legend(loc="upper right")
+	#lower center
 plt.show()
