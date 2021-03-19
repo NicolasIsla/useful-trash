@@ -21,5 +21,6 @@ with plt.style.context("bmh"):
 	ax.plot(variable, funcion, 'o--b', label="holi ")
 	
 	ax.legend(loc="upper right")
-	#lower center
+	#adaklsmdl
+	#lower center	
 plt.show()
