@@ -23,4 +23,5 @@ with plt.style.context("bmh"):
 	ax.legend(loc="upper right")
 	#adaklsmdl
 	#lower center	
+	#hola kako
 plt.show()
